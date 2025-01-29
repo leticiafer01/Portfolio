@@ -14,7 +14,7 @@ Este é um site de portfólio pessoal criado para demonstrar minhas habilidades 
 - Interface responsiva para diferentes dispositivos
 
 ## 🔗 Link para acesso
-O portfólio pode ser acessado pelo seguinte link: [Meu Portfólio](https://github.com/leticiafer01)
+O portfólio pode ser acessado pelo seguinte link: [Meu Portfólio](https://leticiafer01.github.io/Portfolio/)
 
 ## 📂 Como clonar e rodar o projeto
 Para rodar este projeto localmente, siga os passos abaixo:
