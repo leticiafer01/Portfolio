@@ -2,13 +2,13 @@
 
 Bem-vindo(a) ao meu portfólio! Este repositório apresenta meu trabalho como desenvolvedora e cientista de dados. Explore e conheça mais sobre minhas habilidades e projetos.
 
-## 🚀 Sobre o projeto
+## 📝 Sobre o projeto
 Este é um site de portfólio pessoal criado para demonstrar minhas habilidades em desenvolvimento web e Data Science. O site foi desenvolvido com:
 - HTML5
 - CSS3
 - JavaScript
 
-## 🌟 Funcionalidades
+## 🧮 Funcionalidades
 - Página inicial com apresentação e links para redes sociais
 - Seção "Sobre Mim" com mais detalhes sobre minha trajetória
 - Interface responsiva para diferentes dispositivos
@@ -28,7 +28,7 @@ cd portfolio
 # Abra o arquivo index.html no navegador
 ```
 
-## 📌 Contato
+## 📬 Contato
 Me encontre nas redes sociais:
 - 🌎 [LinkedIn](https://linkedin.com/in/leticiafersa)
 - 🐱 [GitHub](https://github.com/leticiafer01)
